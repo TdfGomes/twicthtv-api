@@ -1,0 +1,17 @@
+.btn-wrapper {
+  margin:25px 0;
+}
+.btn-wrapper button:nth-of-type(2){
+  margin:0 25px;
+}
+.channel-card .card-content{
+  min-height: 115px;
+}
+.channel-card .viewers {
+  margin-top: 10px;
+  padding: 10px 0;
+  border-top: 1px solid #00838f;
+}
+.channel-card .card-title .inner-title {
+  text-shadow: 1px 1px #00838f;
+}
