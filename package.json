@@ -24,7 +24,7 @@
     "webpack-dev-server": "^3.1.11"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "prop-types": "^15.5.10",
     "react": "^15.5.4",
     "react-addons-update": "^15.6.0",
